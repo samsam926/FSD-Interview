@@ -1,4 +1,4 @@
-# 📘 Task 1 – Full Stack Application
+# 📘 Task – Full Stack Application
 
 ## Overview
 Create a small full‑stack app (frontend + backend) and package it with Docker. The frontend displays a table/list populated from the backend. The backend reads CSV/Excel from disk, converts to JSON, exposes a minimal CRUD API.
